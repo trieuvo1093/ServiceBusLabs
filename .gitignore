@@ -3,3 +3,5 @@ Labs/ServiceBusCommon/bin/
 Labs/ServiceBusCommon/obj/
 Labs/ServiceBusSender/bin/
 Labs/ServiceBusSender/obj/
+Labs/ServiceBusReceive/bin/
+Labs/ServiceBusReceive/obj/
